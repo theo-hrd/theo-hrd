@@ -12,6 +12,6 @@
 
 
 <p align="center">
-<a href="https://app.daily.dev/Theohrd"><img src="https://api.daily.dev/devcards/242f7d8127894988baf35724d29fa5b5.png?r=1ct" width="400" alt="Theohrd's Dev Card"/>
+<a href="https://app.daily.dev/Theohrd"><img src="https://github.com/theo-hrd/theo-hrd/README.md/main§devcard.svg" width="400" alt="Theohrd's Dev Card"/>
 </a>
 </p>
